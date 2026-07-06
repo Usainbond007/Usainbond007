@@ -11,4 +11,4 @@ currently:
 - competitive programming
 
 ```text
-Python • Java • SQL • LangChain • PostgreSQL • Git • C •FastAPI
+Python • Java • SQL • LangChain • PostgreSQL • Git • C • FastAPI
