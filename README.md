@@ -10,5 +10,6 @@ currently:
 - medical ai
 - competitive programming
 
+
 ```text
 Python • Java • SQL • LangChain • PostgreSQL • Git • C • FastAPI
