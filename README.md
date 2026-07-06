@@ -2,7 +2,7 @@
 
 computer science @ MIT Manipal
 
-building with machine learning, llms and backend.
+building and breaking stuff.
 
 currently:
 - agentic AI
@@ -11,4 +11,4 @@ currently:
 - competitive programming
 
 ```text
-Python • Java • SQL • LangChain • PostgreSQL • Git
+Python • Java • SQL • LangChain • PostgreSQL • Git • C
