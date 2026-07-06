@@ -2,7 +2,7 @@
 
 computer science @ MIT Manipal
 
-building and breaking stuff.
+making computers solve problems i created.
 
 currently:
 - agentic AI
