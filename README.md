@@ -37,7 +37,7 @@ An AI-powered LeetCode analytics and recommendation platform that analyzes scrap
 
 ---
 
-### 02 / Technologies
+###  Technologies
 
 **Languages**
 
