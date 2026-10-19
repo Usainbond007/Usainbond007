@@ -4,7 +4,6 @@
 
 Building at the intersection of **intelligent systems, machine learning, and scalable infrastructure.**
 
-Interested in the engineering behind intelligent systems — from model architectures and distributed inference to resource orchestration and real-world applications.
 
 `AI / ML` · `LLM Systems` · `Distributed Computing` · `Research` · `Competitive Programming`
 
@@ -16,25 +15,25 @@ Interested in the engineering behind intelligent systems — from model architec
 
 `Kubernetes` `vLLM` `KEDA` `Prometheus` `Python`
 
-An inference-aware autoscaling system for LLM serving on Kubernetes. Uses KV-cache and serving metrics to inform scaling decisions, with comparative benchmarking against traditional CPU-based HPA.
+An inference aware autoscaling system for LLM serving on Kubernetes. Uses KV-cache and serving metrics to inform scaling decisions, with comparative benchmarking against traditional CPU-based HPA.
 
-**[Quantum Privacy Firewall ↗](https://github.com/Usainbond007/Quantum-Privacy-Firewall)**
+**[Quantum Privacy Firewall ](https://github.com/Usainbond007/Quantum-Privacy-Firewall)**
 
 `Quantum Computing` `Circuit Transpilation` `Python`
 
 Exploring privacy-oriented quantum circuit transformations, circuit equivalence, and verification techniques.
 
-**[Code-Mixed Transformer ↗](https://github.com/Usainbond007/CodeMixed_Transformer)**
+**[Code-Mixed Transformer ](https://github.com/Usainbond007/CodeMixed_Transformer)**
 
 `NLP` `Transformers` `Deep Learning`
 
 Explorations in transformer-based language modeling for code-mixed and multilingual text.
 
-**[LeetLens ↗](https://github.com/Usainbond007/LeetLens)**
+**[LeetLens ](https://github.com/Usainbond007/LeetLens)**
 
 `Analytics` `Recommendation Systems`
 
-An analytics and recommendation system project.
+An analytics and recommendation system project with a personalised AI coach.
 
 ---
 
@@ -85,4 +84,4 @@ vLLM · KEDA · Prometheus
 
 ---
 
-*Building intelligent systems, understanding their internals, and making them work at scale.*
+* Creating problems to fix*
