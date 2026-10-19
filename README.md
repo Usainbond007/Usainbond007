@@ -21,7 +21,7 @@ Built a KV-aware autoscaling system for Kubernetes-based LLM inference, achievin
 
 `Quantum Computing` `Circuit Transpilation` `Python`
 
-Built a privacy-aware quantum compilation framework that lowered attacker classification accuracy from **93.75% to 43.75% (50 percentage points)** in an archived benchmark, while preserving quantum circuit equivalence through semantics-preserving transformations.
+Built a privacy-aware quantum compilation framework that lowered attacker classification accuracy from **93.75% to 43.75%** in an archived benchmark, while preserving quantum circuit equivalence through semantics-preserving transformations.
 
 **[Code-Mixed Transformer ](https://github.com/Usainbond007/CodeMixed_Transformer)**
 
