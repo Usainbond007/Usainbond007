@@ -11,7 +11,7 @@ Building at the intersection of **intelligent systems, machine learning, and sca
 
 ### 01 / Selected Projects
 
-**[KV-Aware Autoscaling for LLM Inference ↗](https://github.com/Usainbond007/kv-autoscaling)**
+**[KV-Aware Autoscaling for LLM Inference ](https://github.com/Usainbond007/kv-autoscaling)**
 
 `Kubernetes` `vLLM` `KEDA` `Prometheus` `Python`
 
