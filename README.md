@@ -9,7 +9,7 @@ Building at the intersection of **intelligent systems, machine learning, and sca
 
 ---
 
-### 01 / Selected Projects
+###  Selected Projects
 
 **[KV-Aware Autoscaling for LLM Inference ](https://github.com/Usainbond007/kv-autoscaling)**
 
@@ -65,7 +65,7 @@ vLLM · KEDA · Prometheus
 
 ---
 
-### 03 / GitHub Activity
+###  GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usainbond007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
 
@@ -73,7 +73,7 @@ vLLM · KEDA · Prometheus
 
 ---
 
-### 04 / Currently Exploring
+###  Currently Exploring
 
 - **LLM Infrastructure** — inference serving, autoscaling, and GPU resource efficiency.
 - **Agentic AI** — autonomous workflows and intelligent tool use.
@@ -83,5 +83,3 @@ vLLM · KEDA · Prometheus
 - **Competitive Programming** — algorithms, data structures, and problem solving.
 
 ---
-
-* Creating problems to fix*
