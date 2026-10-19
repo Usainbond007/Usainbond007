@@ -1,16 +1,88 @@
-# Ishan.
+# Ishan Chowdhury
 
-computer science @ MIT Manipal
+**Computer Science @ MIT Manipal**
 
-making computers solve problems i created.
+Building at the intersection of **intelligent systems, machine learning, and scalable infrastructure.**
 
-currently:
-- agentic AI
-- retrieval-augmented generation
-- medical ai
-- competitive programming
-- Scaling Infra
+Interested in the engineering behind intelligent systems — from model architectures and distributed inference to resource orchestration and real-world applications.
 
+`AI / ML` · `LLM Systems` · `Distributed Computing` · `Research` · `Competitive Programming`
 
-```text
-Python • Java • SQL • LangChain • PostgreSQL • Git • C • FastAPI
+---
+
+### 01 / Selected Projects
+
+**[KV-Aware Autoscaling for LLM Inference ↗](https://github.com/Usainbond007/kv-autoscaling)**
+
+`Kubernetes` `vLLM` `KEDA` `Prometheus` `Python`
+
+An inference-aware autoscaling system for LLM serving on Kubernetes. Uses KV-cache and serving metrics to inform scaling decisions, with comparative benchmarking against traditional CPU-based HPA.
+
+**[Quantum Privacy Firewall ↗](https://github.com/Usainbond007/Quantum-Privacy-Firewall)**
+
+`Quantum Computing` `Circuit Transpilation` `Python`
+
+Exploring privacy-oriented quantum circuit transformations, circuit equivalence, and verification techniques.
+
+**[Code-Mixed Transformer ↗](https://github.com/Usainbond007/CodeMixed_Transformer)**
+
+`NLP` `Transformers` `Deep Learning`
+
+Explorations in transformer-based language modeling for code-mixed and multilingual text.
+
+**[LeetLens ↗](https://github.com/Usainbond007/LeetLens)**
+
+`Analytics` `Recommendation Systems`
+
+An analytics and recommendation system project.
+
+---
+
+### 02 / Technologies
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark)
+
+**AI / Machine Learning**
+
+![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)
+
+Hugging Face · Transformers · NumPy · Pandas
+
+**Parallel & High-Performance Computing**
+
+CUDA · MPI · OpenMP
+
+**Infrastructure & Development**
+
+![Infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,fastapi,react&theme=dark)
+
+vLLM · KEDA · Prometheus
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark)
+
+---
+
+### 03 / GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usainbond007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usainbond007&layout=compact&hide_border=true&theme=transparent&langs_count=8)
+
+---
+
+### 04 / Currently Exploring
+
+- **LLM Infrastructure** — inference serving, autoscaling, and GPU resource efficiency.
+- **Agentic AI** — autonomous workflows and intelligent tool use.
+- **Retrieval-Augmented Generation** — retrieval pipelines and knowledge-grounded LLM applications.
+- **Machine Learning Research** — transformers, NLP, and applied deep learning.
+- **Distributed Systems** — parallel computing and cloud-native infrastructure.
+- **Competitive Programming** — algorithms, data structures, and problem solving.
+
+---
+
+*Building intelligent systems, understanding their internals, and making them work at scale.*
