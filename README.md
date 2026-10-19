@@ -27,7 +27,7 @@ Built a privacy-aware quantum compilation framework that lowered attacker classi
 
 `NLP` `Transformers` `Deep Learning`
 
-Built a robust Code Mixed Transformer to diagnose and analyse multilingual text.
+Developed a transformer based ensemble for Hinglish sentiment classification, achieving **90.90% accuracy and 90.88% weighted F1-score**. Combined mBERT, XLM-RoBERTa, and MuRIL using SLSQP-optimized weights, outperforming the best individual model.
 
 **[LeetLens ](https://github.com/Usainbond007/LeetLens)**
 
