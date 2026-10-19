@@ -15,25 +15,24 @@ Building at the intersection of **intelligent systems, machine learning, and sca
 
 `Kubernetes` `vLLM` `KEDA` `Prometheus` `Python`
 
-An inference aware autoscaling system for LLM serving on Kubernetes. Uses KV-cache and serving metrics to inform scaling decisions, with comparative benchmarking against traditional CPU-based HPA.
+Built a KV-aware autoscaling system for Kubernetes-based LLM inference, achieving up to 53.6% more processed requests and 25.4% lower p95 latency than CPU-based HPA in benchmark trials, using vLLM, KEDA, and Prometheus.
 
 **[Quantum Privacy Firewall ](https://github.com/Usainbond007/Quantum-Privacy-Firewall)**
 
 `Quantum Computing` `Circuit Transpilation` `Python`
 
-Exploring privacy-oriented quantum circuit transformations, circuit equivalence, and verification techniques.
+Built a privacy-aware quantum compilation framework that lowered attacker classification accuracy from **93.75% to 43.75% (50 percentage points)** in an archived benchmark, while preserving quantum circuit equivalence through semantics-preserving transformations.
 
 **[Code-Mixed Transformer ](https://github.com/Usainbond007/CodeMixed_Transformer)**
 
 `NLP` `Transformers` `Deep Learning`
 
-Explorations in transformer-based language modeling for code-mixed and multilingual text.
-
+Built a robust Code Mixed Transformer to diagnose and analyse multilingual text.
 **[LeetLens ](https://github.com/Usainbond007/LeetLens)**
 
 `Analytics` `Recommendation Systems`
 
-An analytics and recommendation system project with a personalised AI coach.
+An AI-powered LeetCode analytics and recommendation platform that analyzes scraped submissions, tracks problem solving performance, and provides personalized coaching to improve coding skills.
 
 ---
 
