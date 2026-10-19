@@ -9,6 +9,7 @@ currently:
 - retrieval-augmented generation
 - medical ai
 - competitive programming
+- Scaling Infra
 
 
 ```text
