@@ -5,7 +5,7 @@
 Building at the intersection of **intelligent systems, machine learning, and scalable infrastructure.**
 
 
-`AI / ML` · `LLM Systems` · `Distributed Computing` · `Research` · `Competitive Programming`
+`AI / ML` · `LLM Systems` · `Distributed Computing` · `AI Research` · `Competitive Programming`
 
 ---
 
